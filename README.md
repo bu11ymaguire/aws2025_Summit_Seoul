@@ -9,3 +9,4 @@
 
 
 나만의 AI 비서 만들기 실습: https://yoonseo-aws.notion.site/Bedrock-Multi-Agent-Workshop-in-AWS-Summit-2025-Seoul-1f443027d8b180df9046d22a48cb2ec8
+AWS 개선 사례: https://antique-skipjack-fdd.notion.site/AWS-GenAI-17876a71128680798755e8b90bd1a89f
