@@ -5,3 +5,7 @@
 1일차는 자료구조론과 확률통계론 사이 4시간 공강을 이용해서 갔다왔는데 매우 빠듯했다. 기조 연설과 제조업-하이테크 강의 하나 듣고 런치 박스만 후딱 챙겨서 학교로 돌아왔다.
 
 2일차는 개교기념일과 겹쳐서 
+
+
+
+나만의 AI 비서 만들기 실습: https://yoonseo-aws.notion.site/Bedrock-Multi-Agent-Workshop-in-AWS-Summit-2025-Seoul-1f443027d8b180df9046d22a48cb2ec8
